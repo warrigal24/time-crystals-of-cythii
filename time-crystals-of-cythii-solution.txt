@@ -1,0 +1,381 @@
+The Time Crystals of Cythii
+By Garry Francis
+For z-code interpreters
+
+Solution by Garry Francis
+----------------------------------------
+This is a minimal solution. You'll need to EXAMINE lots of things for this solution to make sense. Also, TALK TO non-player characters and ASK ABOUT anything they mention that sounds interesting or may be relevant. The game is chock full of clues and includes a HINT command if you get desperate. Optional (but significant) moves are shown in parentheses. These can be omitted once you know what to do.
+
+The game starts in the present at 9:00 a.m. in the Time Tower of Cythii. There are five other time periods, each ending in a disaster:
+- London starts at 12:15 a.m., ends at 1:00 a.m., giving you 45 minutes.
+- Krakatoa starts at 4:10 a.m., ends at 5:30 a.m., giving you 80 minutes.
+- San Francisco starts at 4:22 a.m., ends at 5:12 a.m., giving you 50 minutes.
+- Titanic starts at 1:30 a.m., ends at 2:20 a.m., giving you 50 minutes.
+- Hindenburg starts at 6:45 p.m., ends at 7:25 p.m., giving you 40 minutes.
+
+Each move takes one minute.
+
+When you leave the time tower and return, the time continues on from where it left off. Whereas, when you leave the time tower and enter another time period, the time restarts at the start of that time period. You can use this to your advantage. Once you've worked out where you are, the game will tell you how long you've got until the disaster occurs, so keep your eye on the time in the status bar or on your watch. When the disaster is imminent, you will start getting warning messages. When the warning messages tell you to "get back to the time tower, NOW!", make sure you follow the advice or you'll get killed in the disaster. Therefore, if you're running out of time, just leave the time period and return.
+
+You must visit London and the Hindenburg at least once and the other time periods at least twice. However, you may need to visit each time period multiple times until you have fully explored those time periods and know what to do.
+
+The solution assumes you play with the tutorial turned on and follow all the suggestions. These are shown as optional moves.
+
+Time Tower:
+(L)
+(X ME) (your name is Jelro & your family protects the Time Crystals of Cythii)
+(I) (you're wearing a watch)
+(X WATCH) (it tells you the date and time)
+(Z) (to kill time and get the next tutorial hint)
+(X ROOM) (it's your job to keep the marble clean)
+(X INSCRIPTION) (try reading it)
+(READ IT) (whoever removes crystals is doomed, whoever returns them is blessed)
+(X STAIRCASE) (it leads down)
+(X RED PLINTH) (red marble with depression where one of the crystals is placed)
+(X GREEN PLINTH) (green marble with depression)
+(X BLUE PLINTH) (blue marble with depression)
+(X DEPRESSION) (that's where you need to put the missing time crystals)
+(X CLOTH) (try taking it)
+(GET CLOTH) (you can drop it again, as you won't need it)
+(DROP CLOTH) (move around using N, S, E, W on land, F, A, P, S on ship, U and D)
+D
+E (you pass through a time warp)
+
+London:
+(X SHOP) (it appears to be a bakery)
+(X HANGING SIGN) (try reading it)
+(READ IT) (it's Thomas Farriner's Bakery, you have until 1:00 a.m. to get back)
+(X STREET SIGN) (try reading it)
+(READ IT) (that confirms it, this was where the Great Fire of London started)
+E
+GET BREAD
+(U) (that area is private)
+(E)
+(GET LANTERN) (baker won't let you take it)
+(X BAKER)
+(TALK TO HIM) (his name's Thomas Farriner)
+(ASK HIM ABOUT HIMSELF, THOMAS FARRINER, BAKERY, BREAD, CRYSTALS, DUTCH, LANTERN, LOCALS, LONDON, ME, OVEN, PUDDING LANE, ROYAL NAVY, SHOP, THAMES)
+(W)
+W
+W (you pass through a time warp)
+
+Time Tower:
+S (you pass through a time warp, use nautical directions on ship)
+
+Titanic (1st trip):
+(X LIFEBOAT) (there's a name painted under the gunwale)
+(X NAME) (it's S.S. Titanic, you have until 2:20 a.m.)
+P
+(OPEN DOOR) (it's locked)
+(X IT) (it has a metal bar sticking out of it)
+(X BAR) (it has a screw thread)
+(X THREAD) (something needs to be screwed onto it, so we'll come back later)
+D
+A
+P
+X SETTEES (you find a bow)
+GET BOW
+(X IT) (it's very pretty)
+S
+A
+GET BOTTLE
+(X IT) (it's sealed with a cork)
+F
+F
+U
+S
+F (you pass through a time warp, use compass directions)
+
+Time Tower:
+W (you pass through a time warp)
+
+San Francisco (1st trip):
+(X NEWSPAPER) (it's 'The San Francisco Call', you have until 5:12 a.m.)
+W
+N
+W
+GET SALT
+S
+(D) (little girl blocks the stairs)
+(X GIRL) (she has untidy hair and she's fondling a brass key)
+(TALK TO GIRL) (she just plays with her hair)
+(ASK HER ABOUT HERSELF) (her name's Alice)
+(ASK HER ABOUT BRASS KEY) (she'll swap it for something pretty)
+(ASK HER ABOUT XXX) (her mummy told her not to talk to strangers)
+(ASK HER ABOUT MUMMY, DADDY) (she must be an orphan)
+(ASK HER ABOUT ALICE, BOW, HAIR, ME, STRANGER)
+(SHOW BOW TO GIRL) (her eyes light up)
+GIVE BOW TO GIRL (she drops the brass key, thanks you and skips away)
+GET BRASS KEY
+D
+(S, E, W, X FENCE) (fence surrounds yard, but you could climb over it)
+CLIMB FENCE
+X GARBAGE (you find an old wheel)
+G (you find a satchel)
+(G) (there's nothing else but trash)
+GET ALL (wheel and satchel taken)
+(X WHEEL) (it has a threaded hole in centre)
+(X SATCHEL) (it's wearable and closed by a flap)
+CLIMB FENCE
+U
+N
+E (go back to time tower and return if time is getting short)
+N
+W
+(OPEN CUPBOARD) (it's locked)
+UNLOCK CUPBOARD WITH BRASS KEY
+OPEN IT (you find a crowbar)
+DROP BRASS KEY
+GET CROWBAR
+E
+E
+(X CRATE) (it's closed)
+(OPEN IT) (it's nailed shut, you'll have to pry it open)
+PRY CRATE WITH CROWBAR
+(GET BANANAS) (you can't take them all)
+GET BANANA (you take one of the ripe ones)
+W
+S (go back to time tower and return if time is getting short)
+E
+(X HOBO) (he's asleep)
+WAKE HOBO
+(TALK TO HIM) (he asks for food)
+(GIVE BOTTLE TO HOBO) (he won't drink on an empty stomach)
+(GIVE BANANA TO HOBO) (he's not a monkey)
+GIVE BREAD TO HOBO (he scoffs it down and asks for something to wash it down)
+GIVE BOTTLE TO HOBO (in his excitement, he drops it and it shatters)
+(L) (there's now some broken glass and a cork)
+GET CORK
+W
+S
+E
+E (you pass through a time warp)
+
+Time Tower:
+S (you pass through a time warp, use nautical directions)
+
+Titanic (2nd trip):
+A
+(X ICE) (there's a bronze key inside it)
+(X BRONZE KEY) (it looks like a furniture key)
+(GET IT) (it's frozen in the ice)
+POUR SALT ON ICE (ice melts, you throw the bag of salt overboard)
+GET BRONZE KEY
+F
+P
+SCREW WHEEL ONTO BAR
+TURN IT (or OPEN DOOR)
+A
+(X TRAMPOLINE) (it's portable)
+GET TRAMPOLINE
+F
+F
+(F) (there's a hole in that direction)
+DROP TRAMPOLINE
+JUMP ON IT (or JUMP OVER HOLE) (trampoline falls into hole)
+(F) (door is closed)
+OPEN DOOR
+F
+(X DRESSING TABLE) (it has a drawer)
+(X DRAWER) (it's closed)
+(OPEN DRAWER) (it's locked)
+UNLOCK DRAWER WITH BRONZE KEY
+OPEN IT (you find a piece of jewellery & a blue crystal)
+DROP BRONZE KEY
+GET BLUE CRYSTAL
+(X IT) (it's one of the missing crystals)
+A
+P
+D
+X WATER (you find the trampoline and drag it out)
+GET ALL (trampoline & rope taken)
+TIE ROPE TO TRAMPOLINE
+U
+S
+DROP TRAMPOLINE
+JUMP ON IT (trampoline falls into hole, but you recover it with rope)
+DROP ROPE
+A
+S
+S (or IN or ENTER LIFEBOAT)
+GET AXE
+P (or OUT or EXIT LIFEBOAT)
+F (you pass through a time warp, use compass directions)
+
+Time Tower:
+U
+PUT BLUE CRYSTAL ON BLUE PLINTH (one down, two to go)
+D
+D (you pass through a time warp, use nautical directions)
+
+Hindenburg:
+(X PLAQUE) (try reading it)
+(READ PLAQUE) (it's the Hindenburg, you have until 7:25 p.m.)
+(X WILLY) (he's the chief radio officer)
+TALK TO WILLY (he asks you to deliver a note to the captain)
+GET NOTE
+(X IT) (you could read it)
+(READ IT) (it's a weather report)
+F
+F (Max Zabel stops you, then allows you to pass after you show him the note)
+(X PRUSS) (he's carrying a pair of binoculars)
+(GET BINOCULARS) (they seem to belong to Captain Pruss)
+GIVE NOTE TO PRUSS (he gives you his binoculars to hold while he reads the note)
+WEAR BINOCULARS
+A
+A
+U (you pass through a time warp, use compass directions)
+
+Time Tower:
+N (you pass through a time warp)
+
+Krakatoa (1st trip):
+(X SIGN) (you're on Krakatoa, you have until 5:30 a.m. to get back)
+(X SMOKE) (it covers whole area, including bay)
+(X BAY) (need to look through something like telescope to see through smoke)
+LOOK THROUGH BINOCULARS (you see ship through smoke, so have reason to go there)
+(E) (you need something to float on)
+N
+N
+N
+(W)
+(X HOLE) (you can see a red glint in the hole)
+(REACH INTO HOLE) (if there's anything there, it's out of your reach)
+(E)
+U
+(U or CLIMB TREE) (your hands need to be free)
+PUT ALL IN SATCHEL (axe won't fit)
+DROP AXE
+WEAR SATCHEL
+U (or CLIMB TREE)
+GET COCONUT
+DROP IT (it falls to ground below)
+GET SILVER KEY
+PUT IT IN SATCHEL
+D (or CLIMB TREE)
+GET AXE
+CHOP TREE WITH AXE
+(L) (there's now a palm tree trunk and stump)
+(X TRUNK) (it's covered in fronds)
+CHOP FRONDS WITH AXE (there's now a log and a pile of fronds)
+DROP AXE
+(GET LOG) (it's too heavy, try pushing it)
+PUSH LOG (it rolls over cliff into ocean)
+D (go back to time tower and return to allow plenty of time in the bay)
+(S)
+(S)
+(S)
+(S) (this resets the timers on Krakatoa)
+(N)
+(N)
+(N)
+(N)
+E (or PUSH LOG or GET ON LOG) (you must have looked through binoculars first)
+E
+E
+S
+S
+U (use nautical directions)
+U
+(X MONKEY) (he looks hungry)
+GET BANANA
+GIVE IT TO MONKEY (you've made a friend)
+(GET MONKEY) (he's fidgetty and jumps out of your arms)
+D (monkey follows you)
+(X DOOR) (it's jammed shut)
+GET CROWBAR
+PRY DOOR WITH IT
+DROP CROWBAR
+F
+GET LAMP
+(LIGHT IT) (you can't)
+PUT IT IN SATCHEL
+A
+A
+(X FLAGON) (it's not sealed)
+(GET FLAGON) (seal it first)
+GET CORK
+PUT IT IN FLAGON
+GET FLAGON
+PUT IT IN SATCHEL
+(X TABLE) (you notice scratches on floor)
+(LOOK UNDER TABLE) (there's a trapdoor underneath it)
+(X SCRATCHES) (created by someone moving the table)
+MOVE TABLE (you expose the trapdoor)
+(X TRAPDOOR) (it's locked by a sliding bolt)
+SLIDE BOLT (or UNLOCK TRAPDOOR)
+OPEN TRAPDOOR
+(D) (it's pitch dark, but you have nothing to light the lamp)
+(U)
+F
+D (use compass directions)
+W
+W
+W (go back to time tower and return if time is getting short)
+N
+N
+W (monkey goes into hole, recovers red crystal, drops it and runs away)
+GET RED CRYSTAL
+(X IT) (it's one of the missing crystals)
+E
+S
+S
+S
+S (you pass through a time warp)
+
+Time Tower:
+U
+PUT RED CRYSTAL ON RED PLINTH (two down, one to go)
+D
+W
+
+San Francisco (2nd trip):
+W
+N
+E
+(TALK TO HOBO) ("Got any liquor buddy?")
+GET FLAGON
+GIVE IT TO HOBO (he gives you a box of matches)
+PUT MATCHES IN SATCHEL
+W
+S
+E
+E (you pass through a time warp)
+
+Time Tower:
+N (you pass through a time warp)
+
+Krakatoa (2nd trip):
+N
+E (or PUSH LOG or GET ON LOG)
+E
+E
+U (use nautical directions)
+A
+GET LAMP AND MATCHES
+LIGHT LAMP WITH MATCHES
+D (it's no longer dark)
+(X CHEST) (it's closed)
+(OPEN IT) (it's locked)
+GET SILVER KEY
+UNLOCK CHEST WITH IT
+OPEN CHEST (you find the green crystal)
+DROP SILVER KEY
+GET GREEN CRYSTAL
+(X IT) (it's one of the missing crystals)
+PUT IT IN SATCHEL
+U
+DROP LAMP AND MATCHES
+F
+D (use compass directions)
+W
+W
+W
+S
+S (you pass through a time warp)
+
+Time Tower:
+U
+GET GREEN CRYSTAL
+PUT IT ON GREEN PLINTH (job done, congratulations)
+***THE END***
